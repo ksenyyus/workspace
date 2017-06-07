@@ -1,0 +1,30 @@
+https://jersey.github.io/download.html - Jersey
+
+REST vs SOAP
+ 
+https://habrahabr.ru/post/131343/
+https://habrahabr.ru/post/134303/
+https://habrahabr.ru/post/75248/
+https://stackoverflow.com/questions/16539858/what-is-the-difference-between-jax-rs-and-jax-ws
+
+ 
+--Develop simple rest-service
+http://www.vogella.com/tutorials/REST/article.html
+
+https://www.ibm.com/developerworks/webservices/library/wa-jaxrs/index.html?S_TACT=105AGX99&S_CMP=CP
+https://www.ibm.com/developerworks/webservices/library/ws-restful/?S_TACT=105AGX99&S_CMP=CP
+https://www.ibm.com/developerworks/ru/library/wa-jaxrs/
+ 
+https://habrahabr.ru/post/150176/
+https://habrahabr.ru/post/140270/
+ 
+http://www.mkyong.com/tutorials/jax-rs-tutorials/
+https://stackoverflow.com/questions/22184801/jersey-2-0-glassfish-4-cast-exception
+
+---Develop servlet
+http://www.vogella.com/tutorials/EclipseWTP/article.html
+
+--Updating Jersey 2 in GlassFish 4
+https://blog.dejavu.sk/2014/01/21/updating-jersey-2-in-glassfish-4/
+ 
+ 
