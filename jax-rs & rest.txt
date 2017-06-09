@@ -11,6 +11,10 @@ https://stackoverflow.com/questions/16539858/what-is-the-difference-between-jax-
 --Develop simple rest-service
 http://www.vogella.com/tutorials/REST/article.html
 
+--example REST Client
+http://howtodoinjava.com/jersey/jersey-restful-client-examples/
+https://coderanch.com/t/551977/java/Jersey-RESTful-web-service-post
+
 https://www.ibm.com/developerworks/webservices/library/wa-jaxrs/index.html?S_TACT=105AGX99&S_CMP=CP
 https://www.ibm.com/developerworks/webservices/library/ws-restful/?S_TACT=105AGX99&S_CMP=CP
 https://www.ibm.com/developerworks/ru/library/wa-jaxrs/
@@ -26,5 +30,15 @@ http://www.vogella.com/tutorials/EclipseWTP/article.html
 
 --Updating Jersey 2 in GlassFish 4
 https://blog.dejavu.sk/2014/01/21/updating-jersey-2-in-glassfish-4/
+
+--HTTPS & SSL & TSLv1
+https://stackoverflow.com/questions/2145431/https-using-jersey-client
+https://stackoverflow.com/questions/1757295/using-https-with-rest-in-java
+https://stackoverflow.com/questions/3434309/accessing-secure-restful-web-services-using-jersey-client
+
+--timeout
+https://stackoverflow.com/questions/19539970/javax-ws-rs-client-client-how-to-configure-readtimeout
+
+
  
  
